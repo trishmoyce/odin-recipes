@@ -1,0 +1,17 @@
+*{
+    font-family: "Courier", sans-serif;
+}
+
+.header {
+    color:white;
+    background-color: seagreen;
+}
+
+.header2 {
+    color:white;
+    background-color: red;
+}
+
+.text {
+    font-style: italic;
+}
